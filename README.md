@@ -1,4 +1,4 @@
-# PSO forcreation of graphic characters
+# PSO for creation of graphic characters
 
 ## Reference Papers:
 
