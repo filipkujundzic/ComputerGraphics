@@ -1,4 +1,4 @@
-# PSO for automatic creation of complex graphic characters
+# PSO forcreation of graphic characters
 
 ## Reference Papers:
 
