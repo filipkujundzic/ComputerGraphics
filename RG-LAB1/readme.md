@@ -1,1 +1,1 @@
-d
+1. laboratorijska vježba iz Računalne grafike
